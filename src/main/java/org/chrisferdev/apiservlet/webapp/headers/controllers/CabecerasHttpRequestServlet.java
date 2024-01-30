@@ -1,4 +1,4 @@
-package org.chrisferdev.apiservlet.webapp.headers;
+package org.chrisferdev.apiservlet.webapp.headers.controllers;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
